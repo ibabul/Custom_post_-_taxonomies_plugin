@@ -1,4 +1,4 @@
-## Custom_post_-_taxonomies_plugin\
+## Custom_post__taxonomies_plugin\
 
 ### What is this plugin about?
 
